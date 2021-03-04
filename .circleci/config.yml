@@ -13,6 +13,7 @@ executors:
           RAILS_ENV: test
           DB_USERNAME: root
           DB_PASSWORD: password
+          DB_HOST: 127.0.0.1
       - image: circleci/mysql:5.7
         command: [--default-authentication-plugin=mysql_native_password]
         environment:
