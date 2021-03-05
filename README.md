@@ -1,24 +1,24 @@
-# README
+# CircleCI your first green build
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A project build by Ruby on Rails with tool CircleCI
 
-Things you may want to cover:
+## What is CI/CD?
 
-* Ruby version
+The CI/CD pipeline is one of the best practices for devops teams to implement, for delivering code changes more frequently and reliably
 
-* System dependencies
+Continuous integration (CI) and continuous delivery (CD) embody a culture, set of operating principles, and collection of practices that enable application development teams to deliver code changes more frequently and reliably. The implementation is also known as the CI/CD pipeline.
 
-* Configuration
+CI/CD is one of the best practices for devops teams to implement. It is also an agile methodology best practice, as it enables software development teams to focus on meeting business requirements, code quality, and security because deployment steps are automated.
 
-* Database creation
+## CircleCI documents
+This document provides a step-by-step tutorial for getting your first successful (green) build on CircleCI.
+[Getting started](https://circleci.com/docs/2.0/getting-started/#section=getting-started)
 
-* Database initialization
+- Creating a repository
+- Setting up CircleCI
+- Digging into your first pipeline
+- Collaborating with teammates
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Demo
+![image](https://user-images.githubusercontent.com/46446038/109903189-11487300-7cce-11eb-8980-3a529565fa38.png)
