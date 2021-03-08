@@ -21,4 +21,4 @@ This document provides a step-by-step tutorial for getting your first successful
 
 
 ## Demo
-![image](https://user-images.githubusercontent.com/46446038/109903189-11487300-7cce-11eb-8980-3a529565fa38.png)
+![image](https://user-images.githubusercontent.com/46446038/110265768-eb351280-7fee-11eb-9b54-a990f1b6a302.png)
